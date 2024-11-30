@@ -1,11 +1,11 @@
 # lock3droom
 
 lock3droom <br>
-│
-├── root/
-│   ├── api/             --> le projet dotnet core pour l'api
-│   │   └── api.csproj
-│   └── client/         --> le project nextjs
-│       └── package.json
-│
-├── root.sln  
+│ <br>
+├── root/ <br>
+│   ├── api/              --> le projet dotnet core pour l'api <br>
+│   │   └── api.csproj <br>
+│   └── client/         --> le project nextjs <br>
+│       └── package.json <br>
+│ <br>
+├── root.sln  <br>
